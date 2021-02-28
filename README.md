@@ -1,8 +1,7 @@
 # SuperMario
 A 3 Leveled Super MArio Game Built on masm615
 
-Super Mario
-General Overview:
+##General Overview:
 The Overall Project has been successfully completed and all the
 requirements are met. In addition, significant work has been done
 on the interface and extra innovative ideas have also been
